@@ -11,7 +11,7 @@
 [![GitHub Repo](https://img.shields.io/badge/Repository-Link-blue.svg)](https://github.com/PinKir1/coordinate-transformations)
 ---
 
-## Radar Visualization
+## Radar Display
 *Completed*  
 [![GitHub Repo](https://img.shields.io/badge/Repository-Link-blue.svg)](https://github.com/PinKir1/radar-display)
 ---
