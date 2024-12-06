@@ -6,6 +6,16 @@
 
 ## Content
 
+## Git course
+*Completed*  
+[![GitHub Repo](https://img.shields.io/badge/Repository-Link-blue.svg)](https://github.com/PinKir1/git-course.git)
+---
+
+## Docker course
+*Completed*  
+[![GitHub Repo](https://img.shields.io/badge/Repository-Link-blue.svg)](https://github.com/PinKir1/docker-course.git)
+---
+
 ## Coordinate Transformations
 *Completed*  
 [![GitHub Repo](https://img.shields.io/badge/Repository-Link-blue.svg)](https://github.com/PinKir1/coordinate-transformations)
